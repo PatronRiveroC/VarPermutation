@@ -3,7 +3,7 @@
 For installation and use the permutation functions for variable selection:
 
 library(devtools)
-install_github("PatronRiveroC/Ssnakes")
+install_github("PatronRiveroC/VarPermutation")
 
 Cite:
 
