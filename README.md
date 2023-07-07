@@ -1,11 +1,10 @@
-# VarPermutation
+# VariablePermutation
 
-For installation and use the permutation functions for variable selection:
-
+# Instalation
 ```
 library(devtools)
 install_github("PatronRiveroC/VariablePermutation")
 ```
 
-Cite:
+# Citation
 Patrón-Rivero, C. (2023). VariablePermutation: An R package to improve variable selection. [Unpublished manuscript].
